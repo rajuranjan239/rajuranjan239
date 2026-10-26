@@ -35,6 +35,6 @@ Most of my work is WordPress and Laravel. I clean up hacked sites, make slow sit
 
 Got a hacked site, a slow site, or something that needs building? Reach out.
 
-- Upwork: [your Upwork profile](https://www.upwork.com/freelancers/~YOUR_ID)
+- Upwork: (https://www.upwork.com/freelancers/~012bc0c008580d7638?viewMode=1)
 - Email: rajuranjan.239@email.com
-- LinkedIn: [your LinkedIn](https://www.linkedin.com/in/raju-ranjan-3aa16755/)
+- LinkedIn: (https://www.linkedin.com/in/raju-ranjan-3aa16755/)
